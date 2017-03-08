@@ -1,0 +1,1 @@
+Workarea for Type Script.
