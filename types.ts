@@ -33,4 +33,3 @@ enum joystickDirections {up, down, right, left};
 if (initialPos === joystickDirections.down){
     console.log (joystickDirections.down);
 }
-
